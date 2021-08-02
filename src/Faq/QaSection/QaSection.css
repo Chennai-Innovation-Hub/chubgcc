@@ -1,0 +1,28 @@
+.faqSection {
+    margin-top: 46px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.faq-split {
+    min-width: 524px;
+}
+
+.expandable-tile,
+.faq-split {
+    min-width: unset;
+    width: unset;
+    max-width: 524px;
+}
+.collapsible {
+    font-size: 16px;
+}
+
+.collapsible-answer {
+    font-size: 14px;
+}
+
+.collapsible-points {
+    font-size: 13px;
+}

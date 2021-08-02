@@ -1,0 +1,241 @@
+#HomePage .home-background-banners {
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/home/main_banner.jpg");
+    min-height: 960px;
+}
+
+#HomePage .events-background-banner {
+	position: relative;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("../images/home/main_banner_new_2.png");
+	min-height: 660px;
+	padding: 0 12px;
+}
+
+#HomePage .change-maker-background-banner {
+	position: relative;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("../images/home/main_banner_3.jpg");
+	min-height: 765px;
+	padding: 0 12px;
+}
+
+#HomePage .center-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#HomePage .banner-btn-home{
+    color: #DC7471;
+    font-size: 18px;
+    max-width: 275px;
+    height: 52px;
+    border-radius: 45px;
+    margin-top : 40px;
+    border: none;
+    padding: 0 30px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+#HomePage .banner-innovate-image{
+    height: 130px;
+    margin-top: 84px;
+}
+
+#HomePage .hr-line {
+	margin: auto;
+	border: 2px solid #DF7870;
+	background-color: #DF7870;
+	max-width: 75px;
+	border-radius: 15px;
+}
+
+#HomePage h2 {
+	font-weight: bold;
+	font-size: 45px;
+	line-height: 40px;
+	color: #004578;
+	padding-top: 42px;
+	margin-bottom: 15px;
+}
+
+#HomePage p {
+	max-width: 900px;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 42px;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 19px;
+	text-align: center;
+	color: #161515;
+	line-height: 28px;
+}
+
+#HomePage h3 {
+	font-weight: 500;
+	font-size: 26px;
+	line-height: 31px;
+	text-align: center;
+	color: #005A9E;
+}
+
+.change-maker-category {
+	margin-top: 45px;
+	margin-bottom: 68px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.change-maker-category img {
+	margin: 10px;
+	width: 208px;
+	height: 208px;
+}
+
+.change-maker-button {
+	width: 312px;
+	min-height: 62px;
+	left: 550px;
+	top: 2107px;
+	background: #005A9E;
+	border-radius: 3px;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 22px;
+	color: #FFFFFF;
+	border: none;
+	margin-bottom: 75px;
+}
+
+.home-events-slider {
+	max-width: 1200px;
+	margin: auto;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+#HomePage .carousal-img-css {
+	width: 348px;
+	height: 396px;
+}
+
+.events-background-banner .splide__pagination {
+	bottom: -1.5em;
+}
+
+#HomePage #divPartners {
+	margin: auto;
+	max-width: 1200px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding: 24px;
+}
+
+#divPartners img {
+	height: 90px;
+	margin: 32px;
+}
+
+.testimonials-slide {
+	margin: 100px auto 0 auto;
+	padding: 0 50px 20px;
+	background: #FFFFFF;
+	box-shadow: 0 6px 17px 2px rgba(199, 199, 199, 0.39);
+	border-radius: 3px;
+	max-width: 795px;
+}
+
+.well .splide__arrow {
+	background: none;
+}
+
+.well .testimonial-quote{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: flex-start;
+	justify-content: center;
+}
+
+.well .splide__pagination__page.is-active {
+	background: #004578;
+}
+
+.well .splide__slide {
+	min-height: 550px;
+}
+
+@media (max-width: 1068px) {
+	#HomePage .banner-innovate-image{
+		margin-top:144px;
+	}
+
+	#divPartners img {
+		height: 75px;
+		margin: 18px;
+	}
+}
+
+@media (max-width: 860px) {
+	#divPartners img {
+		height: 60px;
+		margin: 14px;
+	}
+
+	.testimonials-slide {
+		margin: 100px 16px 0 16px;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.testimonials-slide {
+		padding: 0 22px 20px;
+	}
+
+	#HomePage h2 {
+		font-size: 35px;
+	}
+
+	#divPartners img {
+		height: 50px;
+		margin: 8px;
+	}
+
+	#HomePage .banner-innovate-image{
+		height: 98px;
+	}
+
+	.change-maker-button {
+		width: unset;
+		padding: 0 40px;
+	}
+}
+
+@media (max-width: 370px) {
+	#HomePage .banner-innovate-image{
+		height: 85px;
+	}
+
+	#HomePage .carousal-img-css {
+		width: 300px;
+		height: 350px;
+	}
+}

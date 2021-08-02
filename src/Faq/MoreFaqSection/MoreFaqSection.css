@@ -1,0 +1,34 @@
+.more-faq-section {
+    margin-top: 90px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #003a651c;
+}
+
+.more-faq-question {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 22px;
+    color: #004578;
+}
+
+.more-faq-section hr {
+    width: 72.5px;
+    border-bottom: 3px solid #DF7870;
+    border-top: unset;
+}
+
+.more-faq-section a {
+    font-size: 18px;
+    font-weight: 700;
+    color: #003965d5;
+}
+
+.more-faq-content {
+    font-size: 15px;
+    line-height: 23px;
+    color: #161515;
+}

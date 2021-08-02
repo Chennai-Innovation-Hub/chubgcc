@@ -1,0 +1,50 @@
+footer {
+    width: 100%;
+    height: auto;
+    background-color: #01243F;
+    color: white;
+}
+
+.footer-column-section {
+    display: flex;
+    justify-content: center;
+    height: 110px;
+    align-items: center;
+}
+
+.footer-column-section a {
+    cursor: pointer;
+    color: white;
+}
+
+.footer-column-section input {
+    width: 250px;
+    background-color: #01243F;
+    height: 33px;
+    border: none;
+    padding-left: 15px;
+    font-size: 13px;
+}
+
+.footer-column-section button {
+    width: 80px;
+    font-size: 14px;
+    color: white;
+    background-color: #afafaf;
+    height: 33px;
+}
+
+@media (max-width: 992px) {
+
+    footer {
+        font-size: 13px;
+    }
+
+    .footer-column-section {
+        height: 80px;
+    }
+
+    .footer-column-section div {
+        width: 330px;
+    }
+}

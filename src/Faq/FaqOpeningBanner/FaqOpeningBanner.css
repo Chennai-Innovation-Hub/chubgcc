@@ -1,0 +1,46 @@
+.background-banners {
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-image: url("../../images/faq_main_banner.png");
+    min-height: 550px;
+}
+
+@media (max-width: 768px) {
+    .background-banners {
+        min-height: 350px;
+    }
+}
+.caption {
+    position: absolute;
+    left: 15%;
+    top: 31%;
+    color: #000;
+    width: 444px;
+    text-align: left;
+}
+
+.caption h1 {
+    font-size: 45px;
+    font-weight: 600;
+    color: white;
+}
+
+.caption .hr-line, #about-us-page .hr-line {
+    border: 2px solid #DF7870;
+    border-radius: 10px;
+    background-color: #DF7870;
+    max-width: 75px;
+    margin-top: 0px;
+    margin-right: 3px;
+}
+
+@media (max-width: 768px) {
+    .caption {
+        width: unset;
+        max-width: 387px;
+    }
+}
