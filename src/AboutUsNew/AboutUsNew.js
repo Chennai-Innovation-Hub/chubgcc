@@ -12,12 +12,15 @@ import CIO_Azhagu from '../images/aboutUs/OurTeam/cio_Azhagu.png';
 import CDA_SenthilKumaran from '../images/aboutUs/OurTeam/cdo_SenthilKumaran.png';
 
 import vector from '../images/common/Vector.png';
+import RipponBuilding from '../images/aboutUs/riponBuilding.png';
+import LineBackground from '../images/aboutUs/lineBackground.png'
+import Heptagon from '../images/aboutUs/aboutHeptagon.png'
 
 const AboutUsNew = () => {
   return (
     <div id='about-us-page'>
       <div className='about-us-section'>
-        <div className='left-pane'>Innovate.<br />Sustain.<br />Enable.</div>
+        <div className='left-pane' style={{ backgroundImage: `url(${RipponBuilding})`}}>Innovate.<br />Sustain.<br />Enable.</div>
         <div className='about-us-break' />
         <div className='right-pane'>
           <h2>{L.t('aboutUs.firstRowHeader')}</h2>
@@ -186,12 +189,12 @@ const AboutUsNew = () => {
       <div className='about-values-section'>
         <h3>{L.t('aboutUs.sixthRowHeader')}</h3>
         <div className="hr-line-center" />
-        <div className="about-value-points">
+        <div className="about-value-points" style={{ backgroundImage: `url(${LineBackground})`}}>
           {
             L.t('aboutUs.sixthRowData') && L.t('aboutUs.sixthRowData').map((data, index) => {
               return (
                 <React.Fragment>
-                  <div className='about-value-point'>
+                  <div className='about-value-point' style={{ backgroundImage: `url(${Heptagon})`}}>
                     <img alt='' src={data.image} />
                     <p>{data.content}</p>
                   </div>

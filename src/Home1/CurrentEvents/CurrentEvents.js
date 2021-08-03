@@ -6,12 +6,14 @@ import currentEventImage1 from '../../images/home/current_event_image1.png';
 import currentEventImage2 from '../../images/home/current_event_image2.png';
 import currentEventImage3 from '../../images/home/current_event_image3.png';
 
+import eventsBackgroundBanner from '../../images/home/main_banner_2.jpg'
+
 import '@splidejs/splide/dist/css/themes/splide-default.min.css';
 import './../Home1.css';
 
 const CurrentEvents = () => {
 	return (
-		<div className='events-background-banner'>
+		<div className='events-background-banner' style={{ backgroundImage: `url(${eventsBackgroundBanner}`}}>
 			  <h2>{L.t('home.secondBannerHeading')}</h2>
         <div className="hr-line" />
 				<div className="home-events-slider">
