@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/chubgcc/static/css/main.ac5f56ed.chunk.css",
-    "main.js": "/chubgcc/static/js/main.98e39696.chunk.js",
-    "main.js.map": "/chubgcc/static/js/main.98e39696.chunk.js.map",
+    "main.css": "/chubgcc/static/css/main.d4504b6b.chunk.css",
+    "main.js": "/chubgcc/static/js/main.090d3473.chunk.js",
+    "main.js.map": "/chubgcc/static/js/main.090d3473.chunk.js.map",
     "runtime-main.js": "/chubgcc/static/js/runtime-main.58a77824.js",
     "runtime-main.js.map": "/chubgcc/static/js/runtime-main.58a77824.js.map",
     "static/css/2.11c54b2c.chunk.css": "/chubgcc/static/css/2.11c54b2c.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.122518cb.chunk.js.map": "/chubgcc/static/js/3.122518cb.chunk.js.map",
     "index.html": "/chubgcc/index.html",
     "static/css/2.11c54b2c.chunk.css.map": "/chubgcc/static/css/2.11c54b2c.chunk.css.map",
-    "static/css/main.ac5f56ed.chunk.css.map": "/chubgcc/static/css/main.ac5f56ed.chunk.css.map",
+    "static/css/main.d4504b6b.chunk.css.map": "/chubgcc/static/css/main.d4504b6b.chunk.css.map",
     "static/js/2.1fa3e7bc.chunk.js.LICENSE.txt": "/chubgcc/static/js/2.1fa3e7bc.chunk.js.LICENSE.txt",
     "static/media/Chennai Hub.a5780928.png": "/chubgcc/static/media/Chennai Hub.a5780928.png",
     "static/media/Ellipse.9c0f6cd5.png": "/chubgcc/static/media/Ellipse.9c0f6cd5.png",
@@ -21,6 +21,7 @@
     "static/media/MOUHA.d3abc20d.png": "/chubgcc/static/media/MOUHA.d3abc20d.png",
     "static/media/Ripon_Building_MAP.7df83d0e.png": "/chubgcc/static/media/Ripon_Building_MAP.7df83d0e.png",
     "static/media/STARTUPTN.0e6d09dc.png": "/chubgcc/static/media/STARTUPTN.0e6d09dc.png",
+    "static/media/aboutHeptagon.f718eede.png": "/chubgcc/static/media/aboutHeptagon.f718eede.png",
     "static/media/about_us_1_chief_innovation_officer.ad324ae9.png": "/chubgcc/static/media/about_us_1_chief_innovation_officer.ad324ae9.png",
     "static/media/about_us_1_chief_innovation_officer_tamil.c79cc498.png": "/chubgcc/static/media/about_us_1_chief_innovation_officer_tamil.c79cc498.png",
     "static/media/about_us_1_values_Collaboration.cb0df594.png": "/chubgcc/static/media/about_us_1_values_Collaboration.cb0df594.png",
@@ -55,23 +56,27 @@
     "static/media/dc_ms_prasanth.6a791d94.png": "/chubgcc/static/media/dc_ms_prasanth.6a791d94.png",
     "static/media/events_1.be1a1760.png": "/chubgcc/static/media/events_1.be1a1760.png",
     "static/media/events_2.55dd91ee.png": "/chubgcc/static/media/events_2.55dd91ee.png",
+    "static/media/faq_main_banner.62228f10.png": "/chubgcc/static/media/faq_main_banner.62228f10.png",
     "static/media/great_lakes.14262254.png": "/chubgcc/static/media/great_lakes.14262254.png",
     "static/media/loyola_college.3fe65202.png": "/chubgcc/static/media/loyola_college.3fe65202.png",
     "static/media/main_banner.1086986f.jpg": "/chubgcc/static/media/main_banner.1086986f.jpg",
+    "static/media/main_banner_2.fbdbbfaa.jpg": "/chubgcc/static/media/main_banner_2.fbdbbfaa.jpg",
     "static/media/main_logo.c440b9cb.svg": "/chubgcc/static/media/main_logo.c440b9cb.svg",
     "static/media/ministry-of-urban-development-logo.57e9094f.png": "/chubgcc/static/media/ministry-of-urban-development-logo.57e9094f.png",
     "static/media/projects_card1.4c88da72.png": "/chubgcc/static/media/projects_card1.4c88da72.png",
     "static/media/projects_card2.7b2a9232.png": "/chubgcc/static/media/projects_card2.7b2a9232.png",
+    "static/media/riponBuilding.c343ec7a.png": "/chubgcc/static/media/riponBuilding.c343ec7a.png",
     "static/media/smart_city.b2c9a63a.png": "/chubgcc/static/media/smart_city.b2c9a63a.png",
     "static/media/smart_city_mission_transformation.0ba7e998.jpeg": "/chubgcc/static/media/smart_city_mission_transformation.0ba7e998.jpeg",
     "static/media/students.a04387c8.png": "/chubgcc/static/media/students.a04387c8.png",
-    "static/media/undp_logo.b4544ff7.png": "/chubgcc/static/media/undp_logo.b4544ff7.png"
+    "static/media/undp_logo.b4544ff7.png": "/chubgcc/static/media/undp_logo.b4544ff7.png",
+    "static/media/work_main_banner.20adaba7.png": "/chubgcc/static/media/work_main_banner.20adaba7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.58a77824.js",
     "static/css/2.11c54b2c.chunk.css",
     "static/js/2.1fa3e7bc.chunk.js",
-    "static/css/main.ac5f56ed.chunk.css",
-    "static/js/main.98e39696.chunk.js"
+    "static/css/main.d4504b6b.chunk.css",
+    "static/js/main.090d3473.chunk.js"
   ]
 }
