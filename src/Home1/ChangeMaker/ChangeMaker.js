@@ -8,7 +8,14 @@ import collegeanduniversities from '../../images/home/collegeanduniversities.png
 
 const ChangeMaker = () => {
 	return (
-		<div className='change-maker-background-banner'>
+		<div style={{position: relative,
+			backgroundAttachment: fixed,
+			backgroundPosition: center,
+			backgroundRepeat: no-repeat,
+			backgroundSize: cover,
+			backgroundImage: url("https://chubgcc.in/static/media/main_banner.jpg"),
+			minHeight: "765px",
+			padding: "0 12px"}}>
 			<h2>{L.t('home.thirdBannerHeading')}</h2>
 			<div className="hr-line" />
 			<p>{L.t('home.thirdBannerHeadingDescription')}</p>
