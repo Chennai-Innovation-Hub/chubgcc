@@ -114,7 +114,7 @@
 }
 
 .main-nav-bar .navbar-toggler-icon {
-    background-image: url('../images/down-arrow.png') !important;
+    background-image: url('https://chubgcc.in/images/down-arrow.png') !important;
 }
 
 @media (max-width: 768px) {
@@ -139,7 +139,7 @@
     }
 
     .main-nav-bar .navbar-toggler-icon {
-        background-image: url('../images/arrow-small.png') !important;
+        background-image: url('https://chubgcc.in/images/arrow-small.png') !important;
         height: 16px;
     }
 
