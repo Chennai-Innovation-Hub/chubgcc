@@ -204,35 +204,35 @@ const englishContent = {
             participantTitle: 'Volunteers',
             participantImage: '',
             steps: [
-              'Student who wants to join include your name, age, current education experience and your motivation to join the program and Write to us with the subject line <span>"Interested in the Changemaker Program"</span>',
-              'Final year Bachelor’s student who would like to work with us for your thesis can write to is with the subject line <span>"Interested to carry out Bachelor thesis project with GCC"</span>',
-              'PhD students who want to collaborate on your research can write to us with the subject line <span>"Interested to work on my PhD thesis with GCC"</span>'
+              'Volunteers who wants to contribute to society or city corporation with their skillsets can register themselves with CHUB. Also, they can visit the office with their idea for the city.',
+              'After validation the idea, CHUB will facilitate the piloting to create proof of concept.',
+              'Volunteers  who wants to join include your name, age, current education experience and your motivation to join the program and Write to us with the subject line <span>“Volunteer - Interested in the Changemaker Program"</span>'
             ]
           },
           {
             participantTitle: 'Startup',
             participantImage: '',
             steps: [
-              'Student who wants to join include your name, age, current education experience and your motivation to join the program and Write to us with the subject line <span>"Interested in the Changemaker Program"</span>',
-              'Final year Bachelor’s student who would like to work with us for your thesis can write to is with the subject line <span>"Interested to carry out Bachelor thesis project with GCC"</span>',
-              'PhD students who want to collaborate on your research can write to us with the subject line <span>"Interested to work on my PhD thesis with GCC"</span>'
+              'Start up’s having ideas that can benefit society at large or benefitting City corporation can register themselves with CHUB. Also, they can visit the office with their idea for the city.',
+              'After validation the idea, CHUB will facilitate the piloting to create proof of concept.',
+              'Start up’s who wants to join include your name, age, current education experience and your motivation to join the program and Write to us with the subject line “Startup - In-terested in the Changemaker Program"'
             ]
           },
           {
             participantTitle: 'Students',
             participantImage: './images/workWithUs/student.png',
             steps: [
-              'Student who wants to join include your name, age, current education experience and your motivation to join the program and Write to us with the subject line <span>"Interested in the Changemaker Program"</span>',
-              'Final year Bachelor’s student who would like to work with us for your thesis can write to is with the subject line <span>"Interested to carry out Bachelor thesis project with GCC"</span>',
-              'PhD students who want to collaborate on your research can write to us with the subject line <span>"Interested to work on my PhD thesis with GCC"</span>'
+              'Final year Bachelor’s student who would like to work with us for your thesis can write to is with the subject line <span>"Interested to carry out Bachelor thesis project with CHUB"</span>',
+              'PhD students who want to collaborate on your research can write to us with the subject line <span>"Interested to work on my PhD thesis with CHUB”</span>',
+              '<span>Post validating the project/ thesis, we will get in touch with you.</span>',
+              '<span>Alternatively, CHUB will throw the Problem statements the City and corporation in this platform. Students can work on those as their academic projects and bring it to CHUB af-ter successful completion of it.</span>'
             ]
           },
           {
             participantTitle: 'Colleges and Universities',
             participantImage: './images/workWithUs/institute.png',
             steps: [
-              'Schools/Universities who are interested in setting up innovation hub in their campus can write to us with the subject line <span>"Interested to set up an Innovation Hub in (school/university’s name)"</span>',
-              'For any other relevant enquiries or ideas for collaboration write to us with the subject line <span>"Interested to Collaborate with GCC through the Changemaker’s program"</span>'
+              'Colleges/Universities having Entrepreneurship cell/ innovation hub in their campus can collaborate with CHUB . Please write to us with the subject line <span>"Collaboration between Chennai Innovation Hub and (Colleges/university’s name)”</span> for collaboration.'
             ]
           }
         ]
@@ -602,35 +602,35 @@ const tamilContent = {
             participantTitle: 'தொண்டர்கள்',
             participantImage: '',
             steps: [
-              'சேர விரும்பும் மாணவர் உங்கள் பெயர், வயது, தற்போதைய கல்வி அனுபவம் மற்றும் திட்டத்தில் சேர உங்கள் உந்துதல் மற்றும் பாட வரிசையில் எங்களுக்கு எழுதுங்கள் <span>"சேஞ்ச்மேக்கர் திட்டத்தில் ஆர்வம்"</span>',
-              'உங்கள் ஆய்வறிக்கையில் எங்களுடன் பணியாற்ற விரும்பும் இறுதியாண்டு இளங்கலை மாணவர் பாட வரிசையில் இருக்கிறார் <span>"GCC உடன் இளங்கலை ஆய்வறிக்கை திட்டத்தை செயல்படுத்த ஆர்வமாக உள்ளது"</span>',
-              'உங்கள் ஆராய்ச்சியில் ஒத்துழைக்க விரும்பும் பிஎச்டி மாணவர்கள் பாடக் கோடுடன் எங்களுக்கு எழுதலாம் <span>"ஜிசிசியுடன் எனது பிஎச்டி ஆய்வறிக்கையில் பணியாற்ற ஆர்வமாக உள்ளேன்"</span>'
+              'தங்கள் திறமைகளுடன் சமூகம் அல்லது நகர நிறுவனத்திற்கு பங்களிக்க விரும்பும் தன்னார்வலர்கள் தங்களை CHUB இல் பதிவு செய்யலாம். மேலும், அவர்கள் நகரத்திற்கான தங்கள் யோசனையுடன் அலுவலகத்தைப் பார்வையிடலாம்.',
+              'யோசனையைச் சரிபார்த்த பிறகு, கருத்துக்கான ஆதாரத்தை உருவாக்க CHUB விமானிக்கு உதவும்.',
+              'சேர விரும்பும் தன்னார்வலர்கள் உங்கள் பெயர், வயது, தற்போதைய கல்வி அனுபவம் மற்றும் திட்டத்தில் சேர உங்கள் உந்துதல் மற்றும் பாட வரிசையில் எங்களுக்கு எழுதுங்கள் <span>“தன்னார்வலர் - சேஞ்ச்மேக்கர் திட்டத்தில் ஆர்வம்"</span>'
             ]
           },
           {
             participantTitle: 'ஸ்டார்ட் அப்',
             participantImage: '',
             steps: [
-              'சேர விரும்பும் மாணவர் உங்கள் பெயர், வயது, தற்போதைய கல்வி அனுபவம் மற்றும் திட்டத்தில் சேர உங்கள் உந்துதல் மற்றும் பாட வரிசையில் எங்களுக்கு எழுதுங்கள் <span>"சேஞ்ச்மேக்கர் திட்டத்தில் ஆர்வம்"</span>',
-              'உங்கள் ஆய்வறிக்கையில் எங்களுடன் பணியாற்ற விரும்பும் இறுதியாண்டு இளங்கலை மாணவர் பாட வரிசையில் இருக்கிறார் <span>"GCC உடன் இளங்கலை ஆய்வறிக்கை திட்டத்தை செயல்படுத்த ஆர்வமாக உள்ளது"</span>',
-              'உங்கள் ஆராய்ச்சியில் ஒத்துழைக்க விரும்பும் பிஎச்டி மாணவர்கள் பாடக் கோடுடன் எங்களுக்கு எழுதலாம் <span>"ஜிசிசியுடன் எனது பிஎச்டி ஆய்வறிக்கையில் பணியாற்ற ஆர்வமாக உள்ளேன்"</span>'
+              'சமுதாயத்திற்கு பெரிய அளவில் பயனளிக்கும் அல்லது மாநகராட்சிக்கு நன்மை பயக்கும் யோசனைகளைத் தொடங்குங்கள் CHUB இல் தங்களைப் பதிவு செய்யலாம். மேலும், அவர்கள் நகரத்திற்கான தங்கள் யோசனையுடன் அலுவலகத்தைப் பார்வையிடலாம்.',
+              'யோசனையைச் சரிபார்த்த பிறகு, கருத்துக்கான ஆதாரத்தை உருவாக்க CHUB விமானிக்கு உதவும்.',
+              'சேர விரும்புபவர்கள் உங்கள் பெயர், வயது, தற்போதைய கல்வி அனுபவம் மற்றும் திட்டத்தில் சேர உங்கள் உந்துதல் மற்றும் உள்ளடக்க வரியுடன் எங்களுக்கு எழுதுங்கள் <span> “ஸ்டார்ட் அப்-சேஞ்ச்மேக்கர் திட்டத்தில் ஆர்வம்"</span>'
             ]
           },
           {
             participantTitle: 'மாணவர்கள்',
             participantImage: './images/workWithUs/student.png',
             steps: [
-              'சேர விரும்பும் மாணவர் உங்கள் பெயர், வயது, தற்போதைய கல்வி அனுபவம் மற்றும் திட்டத்தில் சேர உந்துதல் மற்றும் <span> "சேஞ்ச்மேக்கர் திட்டத்தில் ஆர்வமுள்ளவர்" </span> என்ற பாட வரியுடன் எங்களுக்கு எழுதுங்கள்',
-              'உங்கள் ஆய்வறிக்கையில் எங்களுடன் பணியாற்ற விரும்பும் இறுதி ஆண்டு இளங்கலை மாணவர் எழுதலாம் <span> "ஜி.சி.சி உடன் இளங்கலை ஆய்வறிக்கை திட்டத்தை மேற்கொள்ள ஆர்வம்" </span>',
-              'உங்கள் ஆராய்ச்சியில் ஒத்துழைக்க விரும்பும் பி.எச்.டி மாணவர்கள் <span> "ஜி.சி.சி உடன் எனது பிஎச்.டி ஆய்வறிக்கையில் பணியாற்ற ஆர்வமாக உள்ளனர்" </span>'
+              'உங்கள் ஆய்வறிக்கையில் எங்களுடன் பணியாற்ற விரும்பும் இறுதியாண்டு இளங்கலை மாணவர் பாட வரிசையில் இருக்கிறார் <span>"CHUB உடன் இளங்கலை ஆய்வறிக்கை திட்டத்தை செயல்படுத்த ஆர்வமாக உள்ளது"</span>',
+              'உங்கள் ஆராய்ச்சியில் ஒத்துழைக்க விரும்பும் பிஎச்டி மாணவர்கள் பாடக் கோடுடன் எங்களுக்கு எழுதலாம் <span>"CHUB உடன் எனது PhD ஆய்வறிக்கையில் பணியாற்ற ஆர்வமாக உள்ளேன்”</span>',
+              '<span>திட்டம்/ ஆய்வறிக்கையை உறுதிப்படுத்தும் பதிவு, நாங்கள் உங்களுடன் தொடர்பு கொள்வோம்.</span>',
+              '<span>மாற்றாக, CHUB சிக்கல் அறிக்கைகளை நகரம் மற்றும் மாநகராட்சியை இந்த மேடையில் வீசும். மாணவர்கள் தங்கள் கல்வித் திட்டங்களில் வேலை செய்து அதை வெற்றிகரமாக முடித்த பிறகு CHUB க்கு கொண்டு வரலாம்.</span>'
             ]
           },
           {
-            participantTitle: 'பள்ளிகள் மற்றும் பல்கலைக்கழகங்கள்',
+            participantTitle: 'கல்லூரிகள் மற்றும் பல்கலைக்கழகங்கள்',
             participantImage: './images/workWithUs/institute.png',
             steps: [
-              'தங்கள் வளாகத்தில் புதுமை மையத்தை அமைப்பதில் ஆர்வமுள்ள பள்ளிகள் / பல்கலைக்கழகங்கள் <span> "ஒரு கண்டுபிடிப்பு மையத்தை (பள்ளி / கல்லூரியின் பெயர்) அமைக்க ஆர்வமாக உள்ளன" </span> ',
-              'வேறு ஏதேனும் தொடர்புடைய விசாரணைகள் அல்லது ஒத்துழைப்புக்கான யோசனைகளுக்கு <span> "சேஞ்ச்மேக்கரின் திட்டத்தின் மூலம் ஜி.சி.சி உடன் ஒத்துழைக்க ஆர்வமாக உள்ளது" </span>'
+              'கல்லூரிகள்/ பல்கலைக்கழகங்கள் தங்கள் வளாகத்தில் தொழில் முனைவோர் செல்/ கண்டுபிடிப்பு மையம் கொண்ட CHUB உடன் ஒத்துழைக்கலாம். பொருள் வரியுடன் தயவுசெய்து எங்களுக்கு எழுதுங்கள்<span>"சென்னை கண்டுபிடிப்பு மையத்திற்கும் (கல்லூரிகள்/பல்கலைக்கழகத்தின் பெயர்) ஒத்துழைப்பு”</span> ஒத்துழைப்புக்காக.'
             ]
           }
         ]
