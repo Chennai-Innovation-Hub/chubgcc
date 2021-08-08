@@ -58,7 +58,7 @@ const Header = ({ type }) => {
             <Button variant="dark" className="tamil-button btn-cs" onClick={() => { window.sessionStorage.setItem("language", "tamil"); window.location.reload() }}>தமிழ்</Button>
           </div>
           <div className="social-media-links">
-            <Navbar.Brand href="#facebook">
+            <Navbar.Brand  href="https://facebook.com/chennai.i.hub" target="_blank">
               <img
                 alt="faceboook"
                 src={facebookLogo}
@@ -67,7 +67,7 @@ const Header = ({ type }) => {
                 className="d-inline-block align-top"
               />
             </Navbar.Brand>
-            <Navbar.Brand href="#instagram">
+            <Navbar.Brand href="https://instagram.com/chub.gcc?utm_medium=copy_ink" target="_blank">
               <img
                 alt="instagram"
                 src={instaLogo}

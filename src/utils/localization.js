@@ -298,7 +298,7 @@ const englishContent = {
     secondRowContent: {
       completed: [
         { title: 'GCC Corona Monitoring Application', host: 'Greater Chennai Corporation', image: './images/projects/corona.png' },
-        { title: 'Madras Waste Exchange', host: 'Greater Chennai Corporation', image: './images/projects/default_image.png' },
+        { title: 'Madras Waste Exchange', host: 'Greater Chennai Corporation', image: './images/projects/madras_waste_exchange.jpg' },
         { title: 'Home Quarantine and Isolation Management System (HQIMS)', host: 'Greater Chennai Corporation', image: './images/projects/default_image.png' },
         { title: 'GCC Revenue League', host: 'Greater Chennai Corporation', image: './images/projects/default_image.png' },
         { title: 'Covid Tele Counselling Process Optimization', host: 'Greater Chennai Corporation', image: './images/projects/covid_vaccination.jpg' }
@@ -599,6 +599,24 @@ const tamilContent = {
         subTitle: 'மாற்றத்தை உருவாக்குபவராக இருக்க விரும்புகிறீர்களா அல்லது ஒன்றை அறிய விரும்புகிறீர்களா? <br> நடவடிக்கை எடுக்க வேண்டிய நேரம் இது!',
         participants: [
           {
+            participantTitle: 'தொண்டர்கள்',
+            participantImage: '',
+            steps: [
+              'சேர விரும்பும் மாணவர் உங்கள் பெயர், வயது, தற்போதைய கல்வி அனுபவம் மற்றும் திட்டத்தில் சேர உங்கள் உந்துதல் மற்றும் பாட வரிசையில் எங்களுக்கு எழுதுங்கள் <span>"சேஞ்ச்மேக்கர் திட்டத்தில் ஆர்வம்"</span>',
+              'உங்கள் ஆய்வறிக்கையில் எங்களுடன் பணியாற்ற விரும்பும் இறுதியாண்டு இளங்கலை மாணவர் பாட வரிசையில் இருக்கிறார் <span>"GCC உடன் இளங்கலை ஆய்வறிக்கை திட்டத்தை செயல்படுத்த ஆர்வமாக உள்ளது"</span>',
+              'உங்கள் ஆராய்ச்சியில் ஒத்துழைக்க விரும்பும் பிஎச்டி மாணவர்கள் பாடக் கோடுடன் எங்களுக்கு எழுதலாம் <span>"ஜிசிசியுடன் எனது பிஎச்டி ஆய்வறிக்கையில் பணியாற்ற ஆர்வமாக உள்ளேன்"</span>'
+            ]
+          },
+          {
+            participantTitle: 'ஸ்டார்ட் அப்',
+            participantImage: '',
+            steps: [
+              'சேர விரும்பும் மாணவர் உங்கள் பெயர், வயது, தற்போதைய கல்வி அனுபவம் மற்றும் திட்டத்தில் சேர உங்கள் உந்துதல் மற்றும் பாட வரிசையில் எங்களுக்கு எழுதுங்கள் <span>"சேஞ்ச்மேக்கர் திட்டத்தில் ஆர்வம்"</span>',
+              'உங்கள் ஆய்வறிக்கையில் எங்களுடன் பணியாற்ற விரும்பும் இறுதியாண்டு இளங்கலை மாணவர் பாட வரிசையில் இருக்கிறார் <span>"GCC உடன் இளங்கலை ஆய்வறிக்கை திட்டத்தை செயல்படுத்த ஆர்வமாக உள்ளது"</span>',
+              'உங்கள் ஆராய்ச்சியில் ஒத்துழைக்க விரும்பும் பிஎச்டி மாணவர்கள் பாடக் கோடுடன் எங்களுக்கு எழுதலாம் <span>"ஜிசிசியுடன் எனது பிஎச்டி ஆய்வறிக்கையில் பணியாற்ற ஆர்வமாக உள்ளேன்"</span>'
+            ]
+          },
+          {
             participantTitle: 'மாணவர்கள்',
             participantImage: './images/workWithUs/student.png',
             steps: [
@@ -683,7 +701,7 @@ const tamilContent = {
         { 
           title: 'Madras Waste Exchange', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/default_image.png' },
+          image: './images/projects/madras_waste_exchange.jpg' },
         { 
           title: 'Home Quarantine and Isolation Management System (HQIMS)', 
           host: 'Greater Chennai Corporation', 
