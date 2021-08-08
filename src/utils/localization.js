@@ -301,7 +301,7 @@ const englishContent = {
         { title: 'Madras Waste Exchange', host: 'Greater Chennai Corporation', image: './images/projects/madras_waste_exchange.jpg' },
         { title: 'Home Quarantine and Isolation Management System (HQIMS)', host: 'Greater Chennai Corporation', image: './images/projects/default_image.png' },
         { title: 'GCC Revenue League', host: 'Greater Chennai Corporation', image: './images/projects/default_image.png' },
-        { title: 'Covid Tele Counselling Process Optimization', host: 'Greater Chennai Corporation', image: './images/projects/covid_vaccination.jpg' }
+        { title: 'Covid Tele Counselling Process Optimization', host: 'Greater Chennai Corporation', image: './images/projects/default_image.jpg' }
       ],
       ongoing: [
         { title: 'Shelter for Urban Incubators', host: 'Greater Chennai Corporation', image: './images/projects/shelter.png' },
@@ -600,7 +600,7 @@ const tamilContent = {
         participants: [
           {
             participantTitle: 'தொண்டர்கள்',
-            participantImage: '',
+            participantImage: './images/workWithUs/student.png',
             steps: [
               'தங்கள் திறமைகளுடன் சமூகம் அல்லது நகர நிறுவனத்திற்கு பங்களிக்க விரும்பும் தன்னார்வலர்கள் தங்களை CHUB இல் பதிவு செய்யலாம். மேலும், அவர்கள் நகரத்திற்கான தங்கள் யோசனையுடன் அலுவலகத்தைப் பார்வையிடலாம்.',
               'யோசனையைச் சரிபார்த்த பிறகு, கருத்துக்கான ஆதாரத்தை உருவாக்க CHUB விமானிக்கு உதவும்.',
@@ -609,7 +609,7 @@ const tamilContent = {
           },
           {
             participantTitle: 'ஸ்டார்ட் அப்',
-            participantImage: '',
+            participantImage: './images/workWithUs/student.png',
             steps: [
               'சமுதாயத்திற்கு பெரிய அளவில் பயனளிக்கும் அல்லது மாநகராட்சிக்கு நன்மை பயக்கும் யோசனைகளைத் தொடங்குங்கள் CHUB இல் தங்களைப் பதிவு செய்யலாம். மேலும், அவர்கள் நகரத்திற்கான தங்கள் யோசனையுடன் அலுவலகத்தைப் பார்வையிடலாம்.',
               'யோசனையைச் சரிபார்த்த பிறகு, கருத்துக்கான ஆதாரத்தை உருவாக்க CHUB விமானிக்கு உதவும்.',
@@ -713,7 +713,7 @@ const tamilContent = {
         { 
           title: 'Covid Tele Counselling Process Optimization', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/covid_vaccination.jpg' }
+          image: './images/projects/default_image.jpg' }
       ],
       ongoing: [
         { title: 'Shelter for Urban Incubators', host: 'Greater Chennai Corporation', image: './images/projects/shelter.png' },
