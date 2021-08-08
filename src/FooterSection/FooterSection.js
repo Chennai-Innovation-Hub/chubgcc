@@ -16,7 +16,9 @@ const FooterSection = ({type}) => {
         <div className='row' style={{'margin': 0}}>
           <div className='col-md-6 mt-md-0 mt-3 footer-column-section'>
             <div>
-              <div><span><a href={`${appRoute}/sitemap`}>Sitemap</a></span> | <span><a href={`${appRoute}/disclaimer`}>Disclaimer</a></span> | <span><a
+              <div>
+                {/* <span><a href={`${appRoute}/sitemap`}>Sitemap</a></span> |  */}
+                <span><a href={`${appRoute}/disclaimer`}>Disclaimer</a></span> | <span><a
                 href={`${appRoute}/privacyPolicy`}>Privacy Policy</a></span> | <span><a href={`${appRoute}/contact_Us`}>Contact Us</a></span></div>
               <div>Copyright © Chennai Innovation Hub
               </div>

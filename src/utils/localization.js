@@ -173,7 +173,25 @@ const englishContent = {
               'Schools/Universities who are interested in setting up innovation hub in their campus can write to us with the subject line <span>"Interested to set up an Innovation Hub in (school/university’s name)"</span>',
               'For any other relevant enquiries or ideas for collaboration write to us with the subject line <span>"Interested to Collaborate with GCC through the Changemaker’s program"</span>'
             ]
-          }
+          },
+          {
+            participantTitle: 'Start Up',
+            participantImage: './images/workWithUs/start_up.png',
+            steps: [
+              'Start up’s having ideas that can benefit society at large or benefitting City corporation can register themselves with CHUB. Also, they can visit the office with their idea for the city.',
+              'After validation the idea, CHUB will facilitate the piloting to create proof of concept.',
+              'Start up’s who wants to join include your name, age, current education experience and your motivation to join the program and Write to us with the subject line <span>“Startup - In-terested in the Changemaker Program"</span>'
+            ]
+          },
+          {
+            participantTitle: 'volunteer',
+            participantImage: './images/workWithUs/volunteer.png',
+            steps: [
+              'Volunteers who wants to contribute to society or city corporation with their skillsets can register themselves with CHUB. Also, they can visit the office with their idea for the city.',
+              'After validation the idea, CHUB will facilitate the piloting to create proof of concept.',
+              'Volunteers  who wants to join include your name, age, current education experience and your motivation to join the program and Write to us with the subject line <span>“Volunteer - Interested in the Changemaker Program"</span>'
+            ]
+          } 
         ]
       },
       {
@@ -226,7 +244,8 @@ const englishContent = {
         participants: [
           {
             steps: [
-              'Interested to participate in our upcoming hackathon?  <a href="https://www.google.com/" target="_blank">Register <img alt="Register" src="./images/workWithUs/register.png"></a>',
+              'Interested to participate in our upcoming hackathon?  <span>Registration Opens Soon</span>',
+              // <a href="https://www.google.com/" target="_blank">Register <img alt="Register" src="./images/workWithUs/register.png"></a>',
               'Interested in co-hosting a Hackthon with GCC? Write to us with the Subject line <span>"Interested to Co-host Hackathon with GCC"</span> ',
               'Are you interested to formulate problem statements with the GCC? Write to us with the Subject line <span>"Interested to work with GCC for Hackathon Problem statements"</span>',
               'For any other partnerships: Please write to us with the subject line <span>"Partnership:Hackathon"</span> ',
@@ -394,7 +413,7 @@ const englishContent = {
         eventDateTimeText: 'Time',
         eventDateTime: 'To be Announced Shortly',
         eventDateLocationText: 'Location',
-        eventDateLocation: 'Information Center, Egmore, Chennai - 600002'
+        eventDateLocation: 'Ripon Building, Chennai, Tamil Nadu 600003'
       }
     ],
     firstRowButton: 'Contact Us'

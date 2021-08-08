@@ -4,7 +4,7 @@ import L from '../utils/localization';
 import chennaiHub from '../images/home/Chennai Hub.png';
 import vector from '../images/common/Vector.png';
 import schoolAndUniversirt from '../images/home/schoolsanduniversity.png';
-import currentEventImage1 from '../images/home/current_event_image1.png';
+import currentEventImage1 from '../images/home/current_event_image_new.png';
 import currentEventImage2 from '../images/home/current_event_image2.png';
 import currentEventImage3 from '../images/home/current_event_image3.png';
 import students from '../images/home/students.png';

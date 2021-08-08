@@ -5,6 +5,11 @@ import './../Home1.css';
 
 import students from '../../images/home/students.png';
 import collegeanduniversities from '../../images/home/collegeanduniversities.png';
+import start_up from '../../images/home/start_up.png';
+import volunteer from '../../images/home/volunteer.png';
+import config from '../../config/config';
+
+const appRoute = config.appRoute;
 
 const ChangeMaker = () => {
 	return (
@@ -20,8 +25,19 @@ const ChangeMaker = () => {
 				<div>
 					<img alt='Institute Change Maker' src={collegeanduniversities}/>
 				</div>
+				<div>
+					<img alt='Start Up' src={start_up}/>
+				</div>
+				<div>
+					<img alt='Volunteers' src={volunteer}/>
+				</div>
 			</div>
-			<button className='change-maker-button'>{L.t('home.thirdBannerBeAChangeButton')}</button>
+			<span className='change-maker-button'><a href={`${appRoute}/workWithUs`} className='change-maker-button'  >{L.t('home.thirdBannerBeAChangeButton')}</a></span>
+			{/* <button 
+			className='change-maker-button' 
+			>
+			{L.t('home.thirdBannerBeAChangeButton')}
+			</button> */}
 		</div>
 	);
 }

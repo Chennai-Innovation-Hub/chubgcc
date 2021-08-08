@@ -2,7 +2,7 @@ import React from 'react';
 import { Splide, SplideSlide } from '@splidejs/react-splide';
 import L from '../../utils/localization';
 
-import currentEventImage1 from '../../images/home/current_event_image1.png';
+import currentEventImage1 from '../../images/home/current_event_image_new.png';
 import currentEventImage2 from '../../images/home/current_event_image2.png';
 import currentEventImage3 from '../../images/home/current_event_image3.png';
 
