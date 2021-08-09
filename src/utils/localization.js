@@ -320,7 +320,7 @@ const englishContent = {
           title: 'GCC Revenue League', 
           host: 'Greater Chennai Corporation', 
           image: './images/projects/Revenue_League.png',
-          content: './images/projects/files/Revenue League.pdf'
+          content: './images/projects/files/GREAT Module - GCC Revenue League.pdf'
         },
         { 
           title: 'Covid Tele Counselling Process Optimization', 
@@ -753,7 +753,7 @@ const tamilContent = {
           title: 'GCC Revenue League', 
           host: 'Greater Chennai Corporation', 
           image: './images/projects/Revenue_League.png',
-          content: './images/projects/files/Revenue League.pdf'
+          content: './images/projects/files/GREAT Module - GCC Revenue League.pdf'
         },
         { 
           title: 'Covid Tele Counselling Process Optimization', 
