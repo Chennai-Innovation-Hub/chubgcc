@@ -20,11 +20,13 @@ const ProjectsNew = () => {
               return (
                
                   <div className="col-sm-4">
-                  <img alt='' style={{width:'50%'}} src={data.image}/>
+                    <a href={data.content} 
+                    target="_blank" type='application/pdf'> <img alt='' style={{width:'50%'}} src={data.image}/> </a>
+                 
                   {/* <h6>{data.host}</h6> */}
                   <h6>
                     <a href={data.content} 
-                    target="_blank">{data.title} </a>
+                    target="_blank" type='application/pdf'>{data.title} </a>
                   </h6>
                   <br/>
                   <br/>
