@@ -313,19 +313,19 @@ const englishContent = {
         { 
           title: 'Home Quarantine and Isolation Management System (HQIMS)', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/default_image.png',
+          image: './images/projects/HQIMS.png',
           content: './images/projects/files/Home Quarantine Information Management System Focus Portal.pdf'
         },
         { 
           title: 'GCC Revenue League', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/default_image.png',
+          image: './images/projects/Revenue_League.png',
           content: './images/projects/files/Revenue League.pdf'
         },
         { 
           title: 'Covid Tele Counselling Process Optimization', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/default_image.jpg',
+          image: './images/projects/Covid_Tele.png',
           content: './images/projects/files/GCC Covid-19 Process Playbook-converted.pdf'
         }
       ],
@@ -734,7 +734,7 @@ const tamilContent = {
           title: 'GCC Corona Monitoring Application', 
           host: 'Greater Chennai Corporation', 
           image: './images/projects/corona.png',
-          content: 'http://localhost:3000/chubgcc/images/projects/files/GCC%20Corona%20Monitoring.pdf'
+          content: './images/projects/files/GCC Corona Monitoring.pdf'
         },
           
         { 
@@ -746,19 +746,19 @@ const tamilContent = {
         { 
           title: 'Home Quarantine and Isolation Management System (HQIMS)', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/default_image.png',
+          image: './images/projects/HQIMS.png',
           content: './images/projects/files/Home Quarantine Information Management System Focus Portal.pdf'
         },
         { 
           title: 'GCC Revenue League', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/default_image.png',
+          image: './images/projects/Revenue_League.png',
           content: './images/projects/files/Revenue League.pdf'
         },
         { 
           title: 'Covid Tele Counselling Process Optimization', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/default_image.jpg',
+          image: './images/projects/Covid_Tele.png',
           content: './images/projects/files/GCC Covid-19 Process Playbook-converted.pdf'
         }
       ],
