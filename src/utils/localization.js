@@ -297,15 +297,51 @@ const englishContent = {
     firstRowDescription: 'Get to know about all the projects that have been developed in collaboration with Chennai Innovation Hub.',
     secondRowContent: {
       completed: [
-        { title: 'GCC Corona Monitoring Application', host: 'Greater Chennai Corporation', image: './images/projects/corona.png' },
-        { title: 'Madras Waste Exchange', host: 'Greater Chennai Corporation', image: './images/projects/madras_waste_exchange.jpg' },
-        { title: 'Home Quarantine and Isolation Management System (HQIMS)', host: 'Greater Chennai Corporation', image: './images/projects/default_image.png' },
-        { title: 'GCC Revenue League', host: 'Greater Chennai Corporation', image: './images/projects/default_image.png' },
-        { title: 'Covid Tele Counselling Process Optimization', host: 'Greater Chennai Corporation', image: './images/projects/default_image.jpg' }
+        { 
+          title: 'GCC Corona Monitoring Application', 
+          host: 'Greater Chennai Corporation', 
+          image: './images/projects/corona.png',
+          content: './images/projects/files/GCC Corona Monitoring.pdf'
+        },
+          
+        { 
+          title: 'Madras Waste Exchange', 
+          host: 'Greater Chennai Corporation', 
+          image: './images/projects/madras_waste_exchange.jpg',
+          content: './images/projects/files/Madras Waste Exchange Platform.pdf'
+        },
+        { 
+          title: 'Home Quarantine and Isolation Management System (HQIMS)', 
+          host: 'Greater Chennai Corporation', 
+          image: './images/projects/default_image.png',
+          content: './images/projects/files/Home Quarantine Information Management System Focus Portal.pdf'
+        },
+        { 
+          title: 'GCC Revenue League', 
+          host: 'Greater Chennai Corporation', 
+          image: './images/projects/default_image.png',
+          content: './images/projects/files/Revenue League.pdf'
+        },
+        { 
+          title: 'Covid Tele Counselling Process Optimization', 
+          host: 'Greater Chennai Corporation', 
+          image: './images/projects/default_image.jpg',
+          content: './images/projects/files/GCC Covid-19 Process Playbook-converted.pdf'
+        }
       ],
       ongoing: [
-        { title: 'Shelter for Urban Incubators', host: 'Greater Chennai Corporation', image: './images/projects/shelter.png' },
-        { title: 'Burial Ground Management System', host: 'Greater Chennai Corporation', image: './images/projects/default_image.png' },
+        { 
+          title: 'Shelter for Urban Incubators', 
+          host: 'Greater Chennai Corporation', 
+          image: './images/projects/shelter.png',
+          content: ''
+        },
+        { 
+          title: 'Burial Ground Management System', 
+          host: 'Greater Chennai Corporation', 
+          image: './images/projects/default_image.png',
+          content: ''
+        },
       ]
     },
     thirdRowHeader: 'Interested in Collaborating with C-Hub ?',
@@ -697,27 +733,48 @@ const tamilContent = {
         { 
           title: 'GCC Corona Monitoring Application', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/corona.png' },
+          image: './images/projects/corona.png',
+          content: 'http://localhost:3000/chubgcc/images/projects/files/GCC%20Corona%20Monitoring.pdf'
+        },
+          
         { 
           title: 'Madras Waste Exchange', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/madras_waste_exchange.jpg' },
+          image: './images/projects/madras_waste_exchange.jpg',
+          content: './images/projects/files/Madras Waste Exchange Platform.pdf'
+        },
         { 
           title: 'Home Quarantine and Isolation Management System (HQIMS)', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/default_image.png' },
+          image: './images/projects/default_image.png',
+          content: './images/projects/files/Home Quarantine Information Management System Focus Portal.pdf'
+        },
         { 
           title: 'GCC Revenue League', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/default_image.png' },
+          image: './images/projects/default_image.png',
+          content: './images/projects/files/Revenue League.pdf'
+        },
         { 
           title: 'Covid Tele Counselling Process Optimization', 
           host: 'Greater Chennai Corporation', 
-          image: './images/projects/default_image.jpg' }
+          image: './images/projects/default_image.jpg',
+          content: './images/projects/files/GCC Covid-19 Process Playbook-converted.pdf'
+        }
       ],
       ongoing: [
-        { title: 'Shelter for Urban Incubators', host: 'Greater Chennai Corporation', image: './images/projects/shelter.png' },
-        { title: 'Burial Ground Management System', host: 'Greater Chennai Corporation', image: './images/projects/default_image.png' },
+        { 
+          title: 'Shelter for Urban Incubators', 
+          host: 'Greater Chennai Corporation', 
+          image: './images/projects/shelter.png',
+          content: ''
+        },
+        { 
+          title: 'Burial Ground Management System', 
+          host: 'Greater Chennai Corporation', 
+          image: './images/projects/default_image.png',
+          content: ''
+        },
       ]
     },
     thirdRowHeader: 'சி-ஹப் உடன் ஒத்துழைக்க ஆர்வமா ?',

@@ -22,7 +22,10 @@ const ProjectsNew = () => {
                   <div className="col-sm-4">
                   <img alt='' style={{width:'50%'}} src={data.image}/>
                   {/* <h6>{data.host}</h6> */}
-                  <h6>{data.title}</h6>
+                  <h6>
+                    <a href={data.content} 
+                    target="_blank">{data.title} </a>
+                  </h6>
                   <br/>
                   <br/>
                   </div>
